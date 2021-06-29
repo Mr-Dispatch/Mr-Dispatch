@@ -12,4 +12,4 @@ To not go insane, I use Linux & whatever interesting programming languages I can
 - Forth & Factor
 - Go (give me generics or give me death ;-)
 
-I also think that "HTML/CSS/JS + browser as the fattest, dumbest runtime" is the WORST FAD EVER. I don't care if it seems to work when it's alle made of dried dung. So don't you come at me with "cool, but it would be better as a web app" suggestions ;-)
+I also think that "HTML/CSS/JS + browser as the fattest, dumbest runtime" is the WORST FAD EVER. I don't care if it seems to work when it's all made out of dried dung. So don't you come at me with "cool, but it would be better as a web app" suggestions ;-)
