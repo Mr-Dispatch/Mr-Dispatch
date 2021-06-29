@@ -1,7 +1,8 @@
 Hi there, MrDispatch here,
 
 programming language Connoisseur & tech enthusiast, "maker" (as in "dicks around with a 3d printer & embedded stuff").
-I work as an "admin" in large company (I also do some internal automation / code our own management,monitoring or digital signature tools), where I mostly work with Windows and boring/corporate programming languages.
+I work as an "admin" in a large company (I also do some internal automation / code our own management,monitoring or digital signature tools), where I mostly work with Windows and boring/corporate programming languages.
+
 To not go insane, I use Linux & whatever interesting programming languages I can get my hands on in my free time. I especially love (in no particular order):
 
 - Smalltalk
