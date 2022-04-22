@@ -5,6 +5,7 @@ I work as an "admin" in a large company (I also do some internal automation / co
 
 To not go insane, I use Linux & whatever interesting programming languages I can get my hands on in my free time. I especially love (in no particular order):
 
+- Common Lisp
 - Smalltalk
 - Haskell
 - Prolog
